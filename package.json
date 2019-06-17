@@ -1,0 +1,27 @@
+{
+  "name": "module-installer",
+  "version": "1.0.0",
+  "description": "Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamnguyencse17/Webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamnguyencse17/Webpack/issues"
+  },
+  "homepage": "https://github.com/lamnguyencse17/Webpack#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.11",
+    "webpack": "^4.34.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.4"
+  }
+}
