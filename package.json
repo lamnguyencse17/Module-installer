@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lamnguyencse17/Webpack#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "webpack": "^4.34.0"
   },
